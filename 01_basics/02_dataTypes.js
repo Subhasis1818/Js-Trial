@@ -26,7 +26,7 @@ _________objects______a
 
 */
 console.log(typeof accountEmail);
-console.log(accountId);
+console.log(accountId)
 console.log(typeof accountEmail,accountId)
 
 
